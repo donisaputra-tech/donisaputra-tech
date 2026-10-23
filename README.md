@@ -13,13 +13,24 @@ I'm an Information Systems graduate passionate about building web applications, 
 - 🧠 Conducted research on strawberry leaf disease classification using CNN and MobileNetV2
 - 📚 Continuously learning and developing new technical skills
 
+
 ## 🛠️ Tech Stack
 
-- **Languages:** PHP, Python, JavaScript, SQL
-- **Web Development:** HTML, CSS, Bootstrap
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Figma
-- **Machine Learning:** TensorFlow, CNN, MobileNetV2
+### Programming & Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,html,css,bootstrap" />
+</p>
+
+### Database & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+</p>
+
+### Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
 
 ## 🚀 Featured Projects
 
