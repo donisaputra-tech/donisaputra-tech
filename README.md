@@ -1,54 +1,43 @@
 
 # Hi, I'm Muhammad Doni Saputra 👋
 
-### Information Systems Graduate | Web Developer
+### Information Systems Graduate | Web Developer | Machine Learning Enthusiast
 
-I'm an Information Systems graduate passionate about building web applications, designing user-friendly interfaces, and exploring data-driven solutions.
-
-## 👨‍💻 About Me
-
-- 🎓 Information Systems graduate with a GPA of 3.56
-- 💼 Web Development internship experience at PT Kalimanggis Trans Logistic
-- 🌐 Interested in Web Development and UI/UX Design
-- 🧠 Conducted research on strawberry leaf disease classification using CNN and MobileNetV2
-- 📚 Continuously learning and developing new technical skills
-
+I'm an Information Systems graduate with an interest in web development, software engineering, and machine learning. I enjoy building web applications and exploring technology to solve real-world problems.
 
 ## 🛠️ Tech Stack
 
-### Programming & Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,html,css,bootstrap" />
-</p>
+- **Languages:** PHP, Python, JavaScript
+- **Web Development:** HTML, CSS, Bootstrap
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Machine Learning:** CNN, TensorFlow/Keras, MobileNetV2
 
-### Database & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
-</p>
+## 🚀 Featured Project
 
-### Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
-</p>
+### 🍓 Strawberry Care
+A web-based strawberry leaf disease classification project using Convolutional Neural Networks (CNN).
 
+- Classifies strawberry leaves into Angular Leaf Spot, Healthy, and Leaf Scorch.
+- Integrates a web application with a deep learning model.
+- **Tech:** PHP, Python, Flask, MySQL, CNN
 
-## 🚀 Featured Projects
+[View Strawberry Care Repository](https://github.com/donisaputra-tech/strawberry-care)
 
-### 🍓 Strawberry Leaf Disease Classification
-Multi-class classification of strawberry leaf diseases using Convolutional Neural Networks (CNN) and MobileNetV2.
+## 💼 Experience
 
-**Technologies:** Python, TensorFlow, MobileNetV2
+**Web Development Intern — PT Kalimanggis Trans Logistic**
 
-### 🌐 Web Development Projects
-Web development projects built during academic and internship experiences.
+- Gained practical experience in web development.
+- Worked on website-related tasks and project implementation.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+## 🎓 Education
 
-## 📫 Connect With Me
+**Bachelor's Degree in Information Systems**  
+Universitas Mercu Buana  
+GPA: 3.56 / 4.00
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
-- GitHub: [My GitHub Profile](https://github.com/)
+## 📫 Connect with Me
 
----
-
-⭐ Thanks for visiting my profile!
+- GitHub: [@donisaputra-tech](https://github.com/donisaputra-tech)
+- LinkedIn: [Add your LinkedIn profile URL here]
