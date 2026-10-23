@@ -41,3 +41,10 @@ GPA: 3.56 / 4.00
 
 - GitHub: [@donisaputra-tech](https://github.com/donisaputra-tech)
 - LinkedIn: [Add your LinkedIn profile URL here]
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donisaputra-tech&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donisaputra-tech&layout=compact&theme=tokyonight)
